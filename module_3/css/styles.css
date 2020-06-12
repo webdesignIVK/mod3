@@ -83,7 +83,7 @@ padding: 10px;
 }
 
 /* END MENU PAGE */
-@media (max-width: 767px) {
+@media(max-width: 767px) {
  #collapsable-nav li{
   background-color:#ffffff;
   color: #000000;
